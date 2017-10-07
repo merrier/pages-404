@@ -1,6 +1,8 @@
 # pages-404
 some interesting 404 pages
 
+http://zcfy.cc/article/404-pages-from-popular-sites-design-inspiration-muzli-design-inspiration-4260.html
+
 https://github.com/hakimel/404
 
 https://github.com/xuanfeng/404
