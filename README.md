@@ -16,25 +16,33 @@ The 404 page styles of foreign websites are quite different, some of them are fu
 
 #### google
 
+作为全球第一搜索引擎，google的404页面很注重用户体验，同时为了减小html文件体积，能省的样式基本上都省了，同时运用了无障碍标签"aria-label"，在响应式上也做了一些工作
+
 * [Home Page](http://www.google.com)
 * [Origin](http://google.com/404)
-* [Demo]()
+* [Demo](./demo/google/404.html)
 
 ![google.com 404](http://merrier.github.io/pages-404/screenshot/google.png)
 
 #### youtube
 
+youtube的404页面竟然嵌入了宽高都是100%的iframe，不知道为什么，难道是反爬虫？不过和google相比，youtube的css文件有点大了，很多无用的样式，从文件的命名上可以看到，对文件进行了压缩和哈希编码
+
+> 不知道为什么，汉字会显示乱码，在下面的Demo链接可以看到
+
 * [Home Page](http://www.youtube.com)
 * [Origin](http://www.youtube.com/abcdefg)
-* [Demo]()
+* [Demo](./demo/youtube/404.html)
 
 ![youtube.com 404](http://merrier.github.io/pages-404/screenshot/youtube.png)
 
 #### facebook
 
+facebook的404页面功能太多了，有点麻烦，以后有时间再搞。。
+
 * [Home Page](http://www.facebook.com)
 * [Origin](http://www.facebook.com/abcdefg)
-* [Demo]()
+* [Demo](./demo/facebook/404.html)
 
 ![facebook.com 404](http://merrier.github.io/pages-404/screenshot/facebook.png)
 
@@ -42,7 +50,7 @@ The 404 page styles of foreign websites are quite different, some of them are fu
 
 * [Home Page](http://www.reddit.com)
 * [Origin](https://www.reddit.com/abcdefg)
-* [Demo]()
+* [Demo](./demo/reddit/404.html)
 
 ![reddit.com 404](http://merrier.github.io/pages-404/screenshot/reddit.png)
 
@@ -365,7 +373,6 @@ The 404 page styles of foreign websites are quite different, some of them are fu
 ### From Github
 
 github上面的"闲人"真不少啊。。
-
 
 
 ## Thanks
